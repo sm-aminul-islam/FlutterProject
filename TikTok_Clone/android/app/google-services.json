@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437263549357",
+    "project_id": "tiktok-masti-402f5",
+    "storage_bucket": "tiktok-masti-402f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437263549357:android:3515ca7769c273eecc5724",
+        "android_client_info": {
+          "package_name": "com.example.tictok_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437263549357-plucfullvf08dko7inoip2qclgm60kiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63Qo78FH79wRsiyO592g77A3dcXAXkoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437263549357-plucfullvf08dko7inoip2qclgm60kiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
